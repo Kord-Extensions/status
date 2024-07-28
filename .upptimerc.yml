@@ -17,17 +17,12 @@ status-website:
   logoUrl: https://kordex.dev/logo.png
   name: Status | Kord Extensions
   introTitle: "Kord Extensions: Service Status"
-  introMessage: "This is a status page which monitors various services run by Kord Extensions. Powered by [Upptime](https://github.com/upptime/upptime)."
+  introMessage: "This is a status page which monitors various services run by Kord Extensions."
   navbar:
-    - title: Home
-      href: https://kordex.dev
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 
 assignees:
 - gdude2002
