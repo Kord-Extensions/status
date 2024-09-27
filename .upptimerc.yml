@@ -11,6 +11,13 @@ sites:
     url: https://dokka.kordex.dev
   - name: Maven Repo
     url: https://repo.kordex.dev
+  - name: Statistics Dashboard
+    url: https://stats.kordex.dev/public/dashboard/4b0a4faa-45fb-45af-ab96-43cfbec11779
+  - name: Data Collection Service
+    url: https://data.kordex.dev
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   cname: status.kordex.dev
