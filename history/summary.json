@@ -76,35 +76,39 @@
     "url": "https://stats.kordex.dev/public/dashboard/4b0a4faa-45fb-45af-ab96-43cfbec11779",
     "icon": "https://icons.duckduckgo.com/ip3/stats.kordex.dev.ico",
     "slug": "statistics-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 580,
-    "timeWeek": 713,
-    "timeMonth": 739,
-    "timeYear": 738,
-    "dailyMinutesDown": {}
+    "time": 739,
+    "timeDay": 688,
+    "timeWeek": 724,
+    "timeMonth": 741,
+    "timeYear": 739,
+    "dailyMinutesDown": {
+      "2024-11-15": 0
+    }
   },
   {
     "name": "Data Collection Service",
     "url": "https://data.kordex.dev",
     "icon": "https://icons.duckduckgo.com/ip3/data.kordex.dev.ico",
     "slug": "data-collection-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 478,
-    "timeWeek": 603,
-    "timeMonth": 606,
-    "timeYear": 612,
-    "dailyMinutesDown": {}
+    "time": 614,
+    "timeDay": 595,
+    "timeWeek": 617,
+    "timeMonth": 610,
+    "timeYear": 614,
+    "dailyMinutesDown": {
+      "2024-11-15": 0
+    }
   }
 ]
