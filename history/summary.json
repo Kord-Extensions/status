@@ -58,28 +58,30 @@
     "url": "https://repo.kordex.dev",
     "icon": "https://icons.duckduckgo.com/ip3/repo.kordex.dev.ico",
     "slug": "maven-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 498,
     "timeWeek": 603,
     "timeMonth": 585,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-04": 3
+    }
   },
   {
     "name": "Statistics Dashboard",
     "url": "https://stats.kordex.dev/public/dashboard/4b0a4faa-45fb-45af-ab96-43cfbec11779",
     "icon": "https://icons.duckduckgo.com/ip3/stats.kordex.dev.ico",
     "slug": "statistics-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
     "time": 736,
@@ -88,6 +90,7 @@
     "timeMonth": 722,
     "timeYear": 736,
     "dailyMinutesDown": {
+      "2024-12-04": 2,
       "2024-11-15": 44
     }
   },
@@ -96,9 +99,9 @@
     "url": "https://data.kordex.dev",
     "icon": "https://icons.duckduckgo.com/ip3/data.kordex.dev.ico",
     "slug": "data-collection-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.95%",
@@ -108,6 +111,7 @@
     "timeMonth": 580,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2024-12-04": 0,
       "2024-11-15": 44
     }
   }
