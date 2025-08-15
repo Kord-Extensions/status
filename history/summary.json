@@ -40,18 +40,20 @@
     "url": "https://dokka.kordex.dev",
     "icon": "https://icons.duckduckgo.com/ip3/dokka.kordex.dev.ico",
     "slug": "dokka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 377,
-    "timeWeek": 217,
-    "timeMonth": 223,
+    "timeDay": 233,
+    "timeWeek": 201,
+    "timeMonth": 219,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   },
   {
     "name": "Maven Repo",
