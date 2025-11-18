@@ -1,7 +1,7 @@
 url: https://stats.kordex.dev/public/dashboard/4b0a4faa-45fb-45af-ab96-43cfbec11779
-status: down
-code: 500
-responseTime: 80
-lastUpdated: 2025-11-18T11:55:52.701Z
+status: up
+code: 200
+responseTime: 1010
+lastUpdated: 2025-11-18T12:21:45.505Z
 startTime: 2024-09-27T21:51:42.607Z
 generator: Upptime <https://github.com/upptime/upptime>
