@@ -1,7 +1,7 @@
 url: https://data.kordex.dev
-status: up
-code: 404
-responseTime: 558
-lastUpdated: 2026-04-20T23:31:59.170Z
+status: down
+code: 502
+responseTime: 140
+lastUpdated: 2026-04-21T16:39:23.274Z
 startTime: 2024-09-27T21:51:43.453Z
 generator: Upptime <https://github.com/upptime/upptime>
